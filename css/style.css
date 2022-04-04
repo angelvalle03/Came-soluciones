@@ -10202,6 +10202,28 @@ textarea.form-control {
   visibility: visible;
   opacity: 1; }
 
+.img-borde{
+  background-color: #fff; 
+  border-top-right-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+.see-all{
+  text-decoration: underline;
+  color: #ccc;
+}
+.see-all:hover{
+  text-decoration: underline;
+}
+
+.name-vm{
+  font-size: 28px;
+  line-height: 32px;
+}
+
+
+
+
 #ftco-loader .circular {
   -webkit-animation: loader-rotate 2s linear infinite;
   animation: loader-rotate 2s linear infinite;
